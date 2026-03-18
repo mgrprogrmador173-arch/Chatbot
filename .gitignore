@@ -1,0 +1,2 @@
+git rm --cached caminho/para/arquivo
+git commit -m "Stop tracking arquivo"
