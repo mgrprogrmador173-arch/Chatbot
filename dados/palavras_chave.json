@@ -1,0 +1,14 @@
+{
+  "positivas": [
+    "amei", "adorei", "perfeito", "incrível", "fantástico",
+    "lindo", "melhor", "sensacional", "maravilhoso", "excelente",
+    "show", "muito bom", "demais", "top", "legal",
+    "boa", "bom", "gostei", "feliz", "alegre", "amo"
+  ],
+  "negativas": [
+    "ruim", "horrível", "péssimo", "terrível", "chato",
+    "entediante", "fraco", "decepção", "idiota", "burro",
+    "trash", "lixo", "pior", "detesto", "odeio",
+    "chui", "nem", "não", "nunca", "jamais"
+  ]
+}
